@@ -1,0 +1,15 @@
+local_pgsql_param:
+  server:
+    name: localhost
+    host: localhost
+    port: '5432'
+    type: PostgreSQL
+    platform: Local
+  credential_admin:
+    role: Admin
+    username: postgres
+    password: A9eFgt8Ahpy@
+  credential_other:
+    role: SuperUser
+    username: pgadmin4
+    password: jNrmh$LAQ5@J
