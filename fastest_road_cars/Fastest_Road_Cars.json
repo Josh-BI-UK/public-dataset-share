@@ -1,0 +1,64 @@
+{
+    "Fasters Road Cars": [
+        {
+            "Rank": 1,
+            "Make": "Koenigsegg",
+            "Model": "Jesko Absolut",
+            "Top-Speed(mph)": 310
+        },
+        {
+            "Rank": 2,
+            "Make": "Bugatti",
+            "Model": "Chiron Super Sport 300+",
+            "Top-Speed(mph)": 305
+        },
+        {
+            "Rank": 3,
+            "Make": "SSC",
+            "Model": "Tuatara",
+            "Top-Speed(mph)": 283
+        },
+        {
+            "Rank": 4,
+            "Make": "Hennessey",
+            "Model": "Venom F5",
+            "Top-Speed(mph)": 272
+        },
+        {
+            "Rank": 5,
+            "Make": "Rimac",
+            "Model": "Nevera",
+            "Top-Speed(mph)": 258
+        },
+        {
+            "Rank": 6,
+            "Make": "McLaren",
+            "Model": "Speedtail",
+            "Top-Speed(mph)": 250
+        },
+        {
+            "Rank": 7,
+            "Make": "Aspark",
+            "Model": "Owl",
+            "Top-Speed(mph)": 249
+        },
+        {
+            "Rank": 8,
+            "Make": "W Motors",
+            "Model": "Fenyr",
+            "Top-Speed(mph)": 245
+        },
+        {
+            "Rank": 9,
+            "Make": "Pagani",
+            "Model": "Huayra",
+            "Top-Speed(mph)": 238
+        },
+        {
+            "Rank": 10,
+            "Make": "Zenvo",
+            "Model": "TS1 GT",
+            "Top-Speed(mph)": 232
+        }
+    ]
+}
