@@ -1,0 +1,68 @@
+[
+    {
+        "results": [
+            {
+                "tables": [
+                    {
+                        "rows": [
+                            {
+                                "DAX_Training_Sales_Transactions[Product_Code]": 10125071,
+                                "DAX_Training_Sales_Transactions[Product_Description]": "Autumn Winter shirt Classic Orange Small",
+                                "DAX_Training_Sales_Transactions[Brand_Code]": "92-21",
+                                "DAX_Training_Sales_Transactions[Brand]": "OUTFITTER 24-7",
+                                "DAX_Training_Sales_Transactions[Channel_Code]": 90.0,
+                                "DAX_Training_Sales_Transactions[Channel]": "v9 Ios mobile",
+                                "DAX_Training_Sales_Transactions[Sales_Date]": "2017-10-26T00:00:00",
+                                "DAX_Training_Sales_Transactions[Customer_Code]": 10009984,
+                                "DAX_Training_Sales_Transactions[Sales_Qty]": 1,
+                                "DAX_Training_Sales_Transactions[Registration_Date]": "2009-11-07T00:00:00",
+                                "DAX_Training_Sales_Transactions[Country_Code]": "GB",
+                                "DAX_Training_Sales_Transactions[promo_code]": "",
+                                "DAX_Training_Sales_Transactions[Unit_Price]": 19.99,
+                                "DAX_Training_Sales_Transactions[Random_Code]": "100099841012507110/26/201791m180i4lks73179",
+                                "DAX_Training_Sales_Transactions[BatchNumber]": 1,
+                                "DAX_Training_Sales_Transactions[RowUID]": 70
+                            },
+                            {
+                                "DAX_Training_Sales_Transactions[Product_Code]": 10125071,
+                                "DAX_Training_Sales_Transactions[Product_Description]": "Autumn Winter shirt Classic Orange Small",
+                                "DAX_Training_Sales_Transactions[Brand_Code]": "92-21",
+                                "DAX_Training_Sales_Transactions[Brand]": "OUTFITTER 24-7",
+                                "DAX_Training_Sales_Transactions[Channel_Code]": 90.0,
+                                "DAX_Training_Sales_Transactions[Channel]": "v9 Ios mobile",
+                                "DAX_Training_Sales_Transactions[Sales_Date]": "2018-03-11T00:00:00",
+                                "DAX_Training_Sales_Transactions[Customer_Code]": 11068102,
+                                "DAX_Training_Sales_Transactions[Sales_Qty]": 1,
+                                "DAX_Training_Sales_Transactions[Registration_Date]": "2010-03-21T00:00:00",
+                                "DAX_Training_Sales_Transactions[Country_Code]": "GB",
+                                "DAX_Training_Sales_Transactions[promo_code]": "",
+                                "DAX_Training_Sales_Transactions[Unit_Price]": 19.99,
+                                "DAX_Training_Sales_Transactions[Random_Code]": "11068102101250713/11/201895h112u5bhs50071",
+                                "DAX_Training_Sales_Transactions[BatchNumber]": 1,
+                                "DAX_Training_Sales_Transactions[RowUID]": 3641
+                            },
+                            {
+                                "DAX_Training_Sales_Transactions[Product_Code]": 10125071,
+                                "DAX_Training_Sales_Transactions[Product_Description]": "Autumn Winter shirt Classic Orange Small",
+                                "DAX_Training_Sales_Transactions[Brand_Code]": "92-21",
+                                "DAX_Training_Sales_Transactions[Brand]": "OUTFITTER 24-7",
+                                "DAX_Training_Sales_Transactions[Channel_Code]": 90.0,
+                                "DAX_Training_Sales_Transactions[Channel]": "v9 Ios mobile",
+                                "DAX_Training_Sales_Transactions[Sales_Date]": "2018-03-08T00:00:00",
+                                "DAX_Training_Sales_Transactions[Customer_Code]": 11319152,
+                                "DAX_Training_Sales_Transactions[Sales_Qty]": 1,
+                                "DAX_Training_Sales_Transactions[Registration_Date]": "2010-05-07T00:00:00",
+                                "DAX_Training_Sales_Transactions[Country_Code]": "GB",
+                                "DAX_Training_Sales_Transactions[promo_code]": "",
+                                "DAX_Training_Sales_Transactions[Unit_Price]": 19.99,
+                                "DAX_Training_Sales_Transactions[Random_Code]": "11319152101250713/8/201859s45z6sgr72213",
+                                "DAX_Training_Sales_Transactions[BatchNumber]": 1,
+                                "DAX_Training_Sales_Transactions[RowUID]": 4999
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
