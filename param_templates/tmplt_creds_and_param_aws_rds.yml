@@ -1,0 +1,14 @@
+aws_pgsql_param:
+  server:
+    name: #e.g mydb
+    host: #e.g mydb.123456789012.us-east-1.rds.amazonaws.com
+    port: #e.g 5432
+    type: PostgreSQL
+    platform: AWS Cloud
+  credential_admin:
+    username: #e.g admin user name
+    password: #e.g pass0wrd
+  credential_other:
+    role: #e.g db_owner
+    username: #e.g username
+    password: #e.g pass0wrd

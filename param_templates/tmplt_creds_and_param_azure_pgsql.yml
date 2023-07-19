@@ -1,0 +1,18 @@
+azure_pgsql_param:
+  subscription_ID: 75a9bcbe-8695-49a5-9c17-7af81fd413a4
+  resource_group: rg-aicore-retail-dw
+  server:
+    name: aicore-pgsql-001
+    host: aicore-pgsql-001.postgres.database.azure.com 
+    port: '5432'
+    type: PostgreSQL
+    sslmode: require
+    platform: Azure Cloud
+  credential_admin:
+    role: Admin
+    username: pgadmin4
+    password: xx4ffC4DxE
+  credential_other:
+    role: not_used
+    username: not_used
+    password: not_used

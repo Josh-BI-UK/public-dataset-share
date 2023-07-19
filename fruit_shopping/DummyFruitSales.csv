@@ -1,0 +1,12 @@
+﻿Transaction_Number,Transaction_Date,Purchase_Item,Item_Cost,Quantity,Customer_Loytal_Number,Payment_Type,EPOS,Store_Name,Store_Type,Store_Location,Store_Phone_Number,Store_Post_Code,First_Name,Last_Name,Email,Title,Customer_Address_Line_1,Customer_Address_Line_2,Customer_PostCode
+1,2016-01-01,Apple,0.5,1,CLN-5450-121-537745,CASH,455,Tesco Bromley,Tesco Superstore,Bromley,+44 345 026 9770,BR1 4PB,alford,Wraxall,awraxall0@altervista.org,Mr,85 Old Bromley Rd, Bromley,BR1 4JZ
+2,2016-01-11,Orange,0.6,9,CLN-5450-121-537745,DEBIT CARD,137,Tesco Bromley,Tesco Superstore,Bromley,+44 345 026 9770,BR1 4PB,alford,Wraxall,awraxall0@altervista.org,Mr,85 Old Bromley Rd, Bromley,BR1 4JZ
+6,2016-02-01,Apple,0.5,7,CLN-5450-121-537745,DEBIT CARD,406,Tesco Sydenham,Tesco Express,Sydenham,+44 345 026 9081,SE6 4EY,alford,Wraxall,awraxall0@altervista.org,Mr,85 Old Bromley Rd, Bromley,BR1 4JZ
+7,2016-02-28,Grapes,1.5,4,CLN-5450-121-537745,DEBIT CARD,313,Tesco Bromley,Tesco Superstore,Bromley,+44 345 026 9770,BR1 4PB,Alford,Wraxall,awraxall0@altervista.org,Mr,85 Old Bromley Rd, Bromley,BR1 4JZ
+3,2016-01-12,Banana,0.7,5,CLN-5450-121-882786,CREDIT CARD,390,Tesco Sydenham,Tesco Express,Sydenham,+44 345 026 9081,SE6 4EY,Jane,Hackelton,rhackelton2@slideshare.net,Mrs,1 Lescombe Rd, London,se23 2rp
+11,2016-01-22,Orange,0.6,15,CLN-5450-121-882787,CREDIT CARD,472,Tesco Catford,Tesco Express,Catford,+44 0345 677 9139,SE6 4JU,Jane,Hackelton,rhackelton2@slideshare.net,Mrs,2 Lescombe Rd, London,se23 2rp
+4,2016-02-01,Watermelon,2.5,10,CLN-5450-121-647634,DEBIT CARD,245,Tesco Catford,Tesco Express,Catford,+44 0345 677 9140,SE6 4JU,Clemente,MacGregor,cmacgregor3@un.org,Mr,8 Nelgarde Rd, London,SE6 4TF
+10,2016-01-24,Banana,0.7,13,CLN-5450-121-647635,DEBIT CARD,126,Tesco Catford,Tesco Express,Catford,+44 0345 677 9139,SE6 4JU,Clemente,MacGregor,cmacgregor3@un.org,Mr,9 Nelgarde Rd, London,SE6 4TF
+5,2016-02-07,Grapes,1.5,17,CLN-5450-121-834411,CASH,317,Tesco Bromley,Tesco Superstore,Bromley,+44 345 026 9770,BR1 4PB,Jany,Gherardesci,jgherardesci4@comsenz.com,Mrs,12 Valley Rd, Bromley,BR2 0HD
+8,2016-02-28,Watermelon,2.5,8,CLN-5450-121-432496,CASH,175,Tesco Bromley,Tesco Superstore,Bromley,+44 345 026 9770,BR1 4PB,ingemar,Stoacley,istoacley1@newyorker.com,Miss,151 Catford Hill, London,se6 4pr
+9,2016-02-11,Banana,0.7,3,CLN-5450-121-432496,DEBIT CARD,104,Tesco Catford,Tesco Express,Catford,+44 0345 677 9139,SE6 4JU,ingemar,Stoacley,istoacley1@newyorker.com,Miss,151 Catford Hill, London,se6 4pr
